@@ -1,4 +1,4 @@
 # Markdown
 Project in attempting the Markdown challenge
 
-<https://github.cpm/Drizzytiger>
+<https://github.com/Drizzytiger>
