@@ -10,9 +10,9 @@ Project in attempting the Markdown challenge
 
 ~~STRIKE THREE YOU'RE OUT~~
 
-1.Sporting KC
-2.Other MLS teams
-..*Teams that are worse
-3.Real Salt Lake
-..4.Houston
-5.Atlanta United
+1. Sporting KC
+2. Other MLS teams
+..* Teams that are worse
+3. Real Salt Lake
+..4. Houston
+5. Atlanta United
