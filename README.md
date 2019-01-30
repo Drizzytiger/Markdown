@@ -3,7 +3,7 @@ Project in attempting the Markdown challenge
 ---
 ## To meme the Homework or not to meme the Homework
 ---
-#### I shouldn't...
+#### I shouldn't meme my homework.. but I got a little bored and tired to make it more interesting for myself
 ---
 <http://youtube.com>
 ---
@@ -13,9 +13,8 @@ Project in attempting the Markdown challenge
 put in a image from the file direcory here
 ---
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-[Woody]:https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-toy-story-tom-hanks.jpg
-![alt text][Woody]
+---
+![alt text]:https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-toy-story-tom-hanks.jpg
 ---
 '''python
 d = "It's to damn cold in Missouri"
