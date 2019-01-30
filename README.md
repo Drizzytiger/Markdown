@@ -12,21 +12,22 @@ Project in attempting the Markdown challenge
 ---
 put in a image from the file direcory here
 ---
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 [Woody]:https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-toy-story-tom-hanks.jpg
 ![alt text][Woody]
 ---
-'''C
-printf("Robots won't take over the wrold");
-int i = 5;
-printf("%d",i);
+'''python
+d = "It's to damn cold in Missouri"
+print d
 '''
 ---
 > Can we really just delete Ku? 
 > I hate them.
 ---
-..* I Like pizza
-..* But it's not good for my diet
-..* Guess ill eat a salad
+* I Like pizza.
+* But it's not good for my diet.
+* Guess ill eat a salad.
 ---
 1. Sporting KC
 2. Other MLS teams
