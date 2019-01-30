@@ -11,7 +11,7 @@ we must win the Youtube war so...
 [README.md]<https://github.com/Drizzytiger/Markdown/blob/master/README.md>
 [EDIT]<https://github.com/Drizzytiger/Markdown/blob/master/Edits>
 ---
-put in a image from the file direcory here
+put in a image from the file direcory here(https://github.com/Drizzytiger/Markdown/blob/master/STW2.jpg)
 ---
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ---
