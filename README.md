@@ -15,8 +15,6 @@ we must win the Youtube war so...
 ---
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAldx-RkPS68Ood1_uaRm16TsJgIgDTS-fWvtXomzd8PQXAhmTdg)
 ---
-![alt text]:https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-toy-story-tom-hanks.jpg
----
 ```python
 s = "I love soccer"
 print s
