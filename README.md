@@ -16,9 +16,12 @@ put in a image from the file direcory here
 ---
 ![alt text]:https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-toy-story-tom-hanks.jpg
 ---
-'''python
-d = "It's to damn cold in Missouri"
-print d
+'''c
+#include<stdio.h>
+int main(void)
+{
+printf("Hello there"):
+}
 '''
 ---
 > Can we really just delete Ku? 
