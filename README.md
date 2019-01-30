@@ -7,7 +7,7 @@ Project in attempting the Markdown challenge
 ---
 <http://youtube.com>
 ---
-[README.md]<https://github.com/Drizzytiger/Markdown/README.md>
+[README.md]<https://github.com/Drizzytiger/Markdown/blob/master/README.md>
 [EDIT]<https://github.com/Drizzytiger/Markdown/blob/master/Edits>
 ---
 put in a image from the file direcory here
