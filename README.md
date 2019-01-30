@@ -12,7 +12,7 @@ Project in attempting the Markdown challenge
 ---
 put in a image from the file direcory here
 ---
-[Woody]:https://www.charatout/hub/characters/view/Woody.Toy-Story
+[Woody]:https://www.charactout/hub/characters/view/Woody.Toy-Story
 ![alt text][Woody]
 ---
 '''C
